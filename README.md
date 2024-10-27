@@ -1,3 +1,5 @@
+## Important note: This project moved to https://github.com/jadx-decompiler/jadx-android-linter-plugin
+
 ### JADX Android Linter Plugin
 
 #### Features
